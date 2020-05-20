@@ -1,5 +1,7 @@
 body {
   background-image: url('css/wallpaper.jpg');
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   background-size: auto 100vh; 
   font-family: Arial;
   height: 100vh;
